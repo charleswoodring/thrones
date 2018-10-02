@@ -1,4 +1,19 @@
 body {
     background: gray;
-    color: black;
+}
+
+.character-card{
+    display: inline-block;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-img-top {
+    height: 280px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 0;
+    margin: 0 auto;
 }
