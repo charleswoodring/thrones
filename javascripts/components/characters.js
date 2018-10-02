@@ -1,4 +1,5 @@
 import { printToDom } from "../helpers/util.js";
+import {detailsBuilder} from "./detail.js";
 
 const characters =[
     {id:"character1", name: "Jon Snow", house: "Stark", imageURL: "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"},
@@ -10,7 +11,8 @@ const characters =[
 
 const characterClick = (e) => {
     const characterId = e.target.closest(".character-card").id;
-    const currentCharacter = characters.find(x => characterId === x.id)
+    const currentCharacter = characters.find(x => characterId === x.id);
+    detailsBuilder(currentCharacter);
     console.log(currentCharacter)
 }
 
