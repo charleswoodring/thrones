@@ -1,0 +1,64 @@
+{
+    "characters": [
+    {
+        "id":"character1",
+        "name": "Jon Snow",
+        "house": "Stark",
+        "imageURL": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553"
+    },
+    {
+        "id":"character2",
+        "name": "Daenerys Targaryen",
+        "house": "Targaryen",
+        "imageURL": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/5f/Daenerys_Dragonpit.jpg/revision/latest?cb=20171015095128"
+    },
+    {
+        "id":"character3",
+        "name": "Cersei Lannister",
+        "house": "Lannister",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/94/Cersei_Lannister-Lena_Headey.jpg"
+    },
+    {
+        "id":"character4",
+        "name": "Tyrion Lannister",
+        "house": "Lannister",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/50/Tyrion_Lannister-Peter_Dinklage.jpg"
+    },
+    {
+        "id":"character5",
+        "name": "Gregor Clegane",
+        "house": "Clegane",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d8/Gregor_Clegane-The_Mountain-Haf%C3%BE%C3%B3r_J%C3%BAl%C3%ADus_Bj%C3%B6rnsson.jpg"
+    },
+    {
+        "id":"character6",
+        "name": "Sansa Stark",
+        "house": "Stark",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/74/SophieTurnerasSansaStark.jpg"
+    },
+    {
+        "id":"character7",
+        "name": "Arya Stark",
+        "house": "Stark",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/39/Arya_Stark-Maisie_Williams.jpg"
+    },
+    {
+        "id":"character8",
+        "name": "Khal Drogo",
+        "house": "None",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/e/ef/Khal_Drogo-Jason_Momoa.jpg"
+    },
+    {
+        "id":"character9",
+        "name": "Joffrey Baratheon",
+        "house": "Lannister",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bd/Joffrey_Baratheon-Jack_Gleeson.jpg"
+    },
+    {
+        "id":"character10",
+        "name": "Sandor Clegane",
+        "house": "Clegane",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/b4/Sandor_Clegane-The_Hound-Rory_McCann.jpg"
+    }
+    ]
+}
